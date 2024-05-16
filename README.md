@@ -11,4 +11,4 @@ For this project I setup a virtual machine and intentionally turned off all secu
 
 <h2>Google Slide Project Link:</h2>
 
-Porject Link: https://docs.google.com/presentation/d/1SW858PdgiYeKiPOvqXTqLh5GEJEfgy-sVc-dGvlThm4/edit?usp=sharing
+Project Link: https://docs.google.com/presentation/d/1SW858PdgiYeKiPOvqXTqLh5GEJEfgy-sVc-dGvlThm4/edit?usp=sharing
